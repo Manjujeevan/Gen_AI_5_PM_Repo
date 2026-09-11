@@ -2,4 +2,7 @@ print("Manjunathan data")
 
 mydata = {
         "Name:"Manju",
-        "Age":40}
+        "Age":40
+        "City":"Kanchi",
+        "Course":"Python"
+        }
